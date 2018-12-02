@@ -13,6 +13,8 @@ import { LoginComponent } from './login/login.component';
 
 import { WelcomeComponent } from './welcome/welcome.component';
 
+//this is the starting point
+
 @NgModule({
   declarations: [
     AppComponent,
