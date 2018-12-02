@@ -14,6 +14,7 @@ import { LoginComponent } from './login/login.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 
 //this is the starting point
+//this is for master
 
 @NgModule({
   declarations: [
